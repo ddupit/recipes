@@ -13,6 +13,9 @@
 * Chile flakes
 
 ## Steps
-1. Mixing things together
-2. Cooking them in butter
-3. Golden-brown onions
+1. sautee onions and garlic
+2. add bay leaf
+3. start boiling noodles
+4. combine all ingredients
+5. add cream
+6. enjoy
