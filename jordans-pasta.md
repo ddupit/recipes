@@ -4,6 +4,13 @@
 * Garlic
 * Onions
 * Bay leaf
+* Forest mushroom
+* Olive oil
+* Farfalle
+* Water
+* Salt
+* Pepper
+* Chile flakes
 
 ## Steps
 1. Mixing things together
